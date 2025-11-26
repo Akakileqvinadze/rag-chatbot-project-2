@@ -1,0 +1,14 @@
+# Google Gemini SDK
+google-genai
+
+# Embeddings & Vector DB
+pypdf
+faiss-cpu
+sentence-transformers
+
+# Environment and UI
+python-dotenv
+streamlit
+
+# Utils
+numpy # საჭიროა FAISS-ისთვის
