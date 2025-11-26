@@ -7,7 +7,9 @@ python -m venv .venv
 2.პაკეტების ინსტალაცია
 
 pip install --upgrade pip
+
 pip install streamlit  faiss-cpu python-dotenv PyPDF2
+
 pip install -r requirements.txt
 
 3.ვაყენებთ  სტრეამლითს
