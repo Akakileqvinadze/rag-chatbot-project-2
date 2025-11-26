@@ -1,6 +1,7 @@
 1.ვქმნით ვირტუალურ გარემოს
 
 python -m venv .venv
+
 .\.venv\Scripts\Activate.ps1
 
 2.პაკეტების ინსტალაცია
